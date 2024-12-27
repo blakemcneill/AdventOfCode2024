@@ -11,4 +11,4 @@ for left_item in left_list:
     total_distance = total_distance + abs(left_list[i] - right_list[i])
     i += 1
 
-# print(total_distance)
+print(total_distance)
